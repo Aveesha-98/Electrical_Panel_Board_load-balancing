@@ -1,0 +1,12 @@
+panel board name:BOARD 1
+number of phases:2
+num of circuits:20
+circuit_number:1 object_id:459 POLOS:1 CARGA:75 CIRCUITO:1 NOMBRE:3
+circuit_number:1 object_id:436 POLOS:1 CARGA:200 CIRCUITO:1 NOMBRE:2
+circuit_number:1 object_id:3FC POLOS:1 CARGA:162 CIRCUITO:1 NOMBRE:1
+circuit_number:1 object_id:365 POLOS:1 CARGA:162 CIRCUITO:1 NOMBRE:1
+circuit_number:2 object_id:45F POLOS:2 CARGA:75 CIRCUITO:2 NOMBRE:3
+circuit_number:2 object_id:40D POLOS:2 CARGA:162 CIRCUITO:2 NOMBRE:1
+circuit_number:2 object_id:430 POLOS:2 CARGA:200 CIRCUITO:2 NOMBRE:2
+circuit_number:3 object_id:453 POLOS:2 CARGA:75 CIRCUITO:3 NOMBRE:3
+circuit_number:3 object_id:42A POLOS:2 CARGA:200 CIRCUITO:3 NOMBRE:2
